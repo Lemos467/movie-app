@@ -1,2 +1,4 @@
-# movie-app
-Simple web app to search for movies
+# Movie-app
+Simple web app to search for movies with Vanilla JavaScript
+
+Api used: https://www.themoviedb.org/documentation/api
